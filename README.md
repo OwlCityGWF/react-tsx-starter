@@ -104,7 +104,3 @@ This will launch at a different port since it proxies [Express](https://expressj
 ## Related
 
 A simple starter project can be found at [react-tsx-lite](https://github.com/toddlucas/react-tsx-lite).
-
-## License
-
-[BSD](https://github.com/toddlucas/react-tsx-starter/blob/master/LICENSE) (the same as React)
