@@ -98,5 +98,3 @@ You can also run the server with automatic reloading using [nodemon](https://nod
 ```
 > gulp serve
 ```
-
-This will launch at a different port since it proxies [Express](https://expressjs.com/).
