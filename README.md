@@ -100,7 +100,3 @@ You can also run the server with automatic reloading using [nodemon](https://nod
 ```
 
 This will launch at a different port since it proxies [Express](https://expressjs.com/).
-
-## Related
-
-A simple starter project can be found at [react-tsx-lite](https://github.com/toddlucas/react-tsx-lite).
